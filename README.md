@@ -29,7 +29,7 @@ Users should be able to:
 
 
 - [Solution URL](https://github.com/mriyaz/News-homepage-challenge)
-- [Live Site URL](https://News-homepage-challenge.vercel.app/)
+- [Live Site URL](https://news-homepage-challenge-one.vercel.app/)
 
 ## My process
 
